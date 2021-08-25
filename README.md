@@ -3,7 +3,7 @@
 I'm 404dcd, a programmer and cybersecurity enthusiast.
 
 - 🔭 I’m currently working on [RACTF](https://github.com/ractf/)
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Rust
 - 😄 Pronouns: he/him
 - 💚 I like capturing flags
 
